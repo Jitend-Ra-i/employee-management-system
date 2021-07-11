@@ -1,7 +1,7 @@
 # import pywhatkit
 # pywhatkit.sendwhatmsg('+919399751354','opencode',19,14)
 
-from dns.rdataclass import NONE
+# from dns.rdataclass import NONE
 import mysql.connector
 from mysql.connector import cursor
 con = mysql.connector.connect(
